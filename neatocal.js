@@ -66,7 +66,7 @@ var NEATOCAL_PARAM = {
 
   // Text to use for displaying weekdays
   //
-  "weekday_code" : [ "Su", "M", "T", "W", "R", "F", "Sa"  ],
+  "weekday_code" : [ "Su", "M", "T", "W", "T", "F", "Sa"  ],
 
   // Weekday representation https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat/DateTimeFormat#weekday
   //
@@ -114,7 +114,7 @@ var NEATOCAL_PARAM = {
 
   // today's date highlight color
   //
-  "today_highlight_color": '',
+  "today_highlight_color": '#42e3f5',
 
   // Moon phase display options
   //
@@ -125,7 +125,7 @@ var NEATOCAL_PARAM = {
   //
   // show week numbers
   //
-  "show_week_numbers": false,
+  "show_week_numbers": true,
 
   // fiddly parameters
   //
