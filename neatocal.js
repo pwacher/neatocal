@@ -41,7 +41,7 @@ var NEATOCAL_PARAM = {
   // The parameter here is directly applied to the `tr` style,
   // so values of "1.5em" or "30px" will work.
   //
-  "cell_height": "",
+  "cell_height": "2em",
 
   // show info/help screen
   //
