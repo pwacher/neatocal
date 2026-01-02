@@ -30,7 +30,9 @@ var NEATOCAL_PARAM = {
   //
   "data_fn": "",
 
-  "data": { },
+  "data": {
+    "2026-01-04" : "Mayumi",
+  },
 
   "color_cell": [],
 
